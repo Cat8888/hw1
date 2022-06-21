@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Hw1, Configuration: Debug Any CPU ------
+1>C:\Users\Öbish\source\repos\Hw1\ProgramBase.cs(5,31,5,36): warning CS0169: The field 'ProgramBase.funcg' is never used
+1>  Hw1 -> C:\Users\Öbish\source\repos\Hw1\bin\Debug\Hw1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
